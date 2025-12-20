@@ -5,7 +5,7 @@ This repository provides a scrollytelling version of "The Open Science Bird" ins
 
 ## Website
 
-Scrollytelling version of DRA's [Open Science Bird](https://saranjeetkaur.github.io/opensci_bird/).
+[Scrollytelling version of DRA's Open Science Bird](https://saranjeetkaur.github.io/opensci_bird/).
 
 _For the best experience, please view this on a laptop._
 
