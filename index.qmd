@@ -1,0 +1,306 @@
+---
+title: "The Open Science Bird"
+format:
+  closeread-html:
+    cr-style:
+      narrative-background-color-sidebar: "#fea907"
+      narrative-text-color-sidebar: "#ffffff"
+      section-background-color: "#d5fdff"
+      narrative-font-size: 24pt
+      narrative-font-family: Comic Sans MS
+      narrative-background-color-overlay: "#422e53"
+    remove-header-space: true
+---
+
+:::{.cr-section layout="overlay-right"}
+**_The Open Science Bird_**  [@cr-bird]{pan-to="0%,-10%"  scale-by="1.4"}
+
+_Building the most open, transparent, reproducible nest in the forest_  [@cr-bird]{pan-to="0%,-10%"  scale-by="1.4"}
+
+:::{#cr-bird}
+![](img/opensci_bird_advent.jpg)
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+In a quiet winter forest, a small Open Science Bird decides to build the best nest ever.  [@cr-good_sci]{pan-to="174%,57%"  scale-by="3.9"}
+
+Not just any nest but one built openly, so every creature can learn from it.  [@cr-good_sci]{pan-to="27%,0%"  scale-by="1"}
+
+“If research is a nest,” she chirps, “then I am building mine so everyone benefits.”  [@cr-good_sci]{pan-to="27%,0%"  scale-by="1"}
+
+:::{#cr-good_sci}
+![](img/good_sci.jpg){width=42%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+She sketches her nest design...  [@cr-blueprint]{pan-to="97%,-15%"  scale-by="2.4"}
+
+... and pins it to a tree trunk like a public notice board.  [@cr-blueprint]{pan-to="32%,0%"  scale-by="1.1"}
+
+“Maybe someone can help me improve this” she says.  [@cr-blueprint]{pan-to="32%,0%"  scale-by="1.1"}
+
+A squirrel adds a clever tweak; a hedgehog suggests reinforcing the base.  [@cr-blueprint]{pan-to="32%,0%"  scale-by="1.1"}
+
+The blueprint becomes better with every pawprint.  [@cr-blueprint]{pan-to="70%,90%"  scale-by="3.5"}
+
+:::{#cr-blueprint}
+![](img/blueprint.jpg){width=44% }
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+A sudden gust of wind snatches her blueprint, ...  [@cr-wind]{pan-to="50%,-51.5%"  scale-by="2.1"}
+
+... well almost!  [@cr-wind]{pan-to="37%,-4%"  scale-by="1.3"}
+
+Luckily, she has all her versions tucked safely in her pinecone-based version control system.  [@cr-wind]{pan-to="37%,-4%"  scale-by="1.3"}
+
+She smirks, “Ha! Try blowing away v1.1, forest.”  [@cr-wind]{pan-to="37%,-4%"  scale-by="1.3"}
+
+:::{#cr-wind}
+![](img/wind.jpg){width=53%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+Before collecting a single twig, she drafts a Nest Management Plan...  [@cr-plan]{pan-to="79%,-20%"  scale-by="2.8"}
+
+What she will gather? where she will store it? and how long she will keep everything organised?  [@cr-plan]{pan-to="79%,-20%"  scale-by="2.8"}
+
+It feels good to see her thoughts laid out.  [@cr-plan]{pan-to="34%,0%"  scale-by="1"}
+
+With a clear plan, the whole project suddenly feels lighter, calmer and completely manageable.  [@cr-plan]{pan-to="34%,0%"  scale-by="1"}
+
+:::{#cr-plan}
+![](img/plan.jpg){width=35%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+Collecting twigs turns into chaos...  [@cr-twigs]{pan-to="42%,49%"  scale-by="1.5"}
+
+Some are hidden, some crumble, some are the wrong shape, and many she finds only once and never again. [@cr-twigs]{pan-to="42%,49%"  scale-by="1.5"}
+
+Moss and string aren’t any better.  [@cr-twigs]{pan-to="42%,49%"  scale-by="1.5"}
+
+By sunset she sighs, “Why is nothing findable around here?”  [@cr-twigs]{pan-to="28%,0%"  scale-by="1"}
+
+:::{#cr-twigs}
+![](img/twigs.jpg){width=45%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+A flock flies by with the twigs she needs...  [@cr-flock]{pan-to="55%,58%"  scale-by="2"}
+
+“Where did you get those?” she calls.  [@cr-flock]{pan-to="41%,-8%"  scale-by="2"}
+
+They shrug. “Somewhere near the stream? Maybe the oak?”  [@cr-flock]{pan-to="55%,58%"  scale-by="2"}
+
+So she invites them to search together.  [@cr-flock]{pan-to="29%,0%"  scale-by="1.2"}
+
+They compare notes, coordinate and map the forest-bendy twigs here, straight ones there, useless shrubs elsewhere.  [@cr-flock]{pan-to="29%,0%"  scale-by="1.2"}
+
+Suddenly, the forest becomes navigable and the twig pile grows quickly.  [@cr-flock]{pan-to="29%,0%"  scale-by="1.2"}
+
+:::{#cr-flock}
+![](img/flock.jpg){width=41%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+A mole shows her a perfect twig but can’t remember where he found it.  [@cr-mole]{pan-to="56%,-45%"  scale-by="2"}
+
+Without a record, the twig’s source is lost.  [@cr-mole]{pan-to="56%,-45%"  scale-by="2"}
+
+So she starts a simple reference list... every good twig gets its tree, location, and details noted.  [@cr-mole]{pan-to="56%,-45%"  scale-by="2"}
+
+Soon, no twig is ever “mysterious” again.  [@cr-mole]{pan-to="33%,0%"  scale-by="1.1"}
+
+:::{#cr-mole}
+![](img/mole.jpg){width=45%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+As her nest project grows, she realises she can’t keep up!  [@cr-folder]{pan-to="117%,-27%"  scale-by="2.3"}
+
+Random twigs everywhere, scattered notes, total chaos.  [@cr-folder]{pan-to="117%,-27%"  scale-by="2.3"}
+
+So she builds a simple project structure... a few clear docs, a small task board, and shared standards for how each twig should be added.  [@cr-folder]{pan-to="57%,75%"  scale-by="2.3"}
+
+Suddenly, everything feels lighter.  [@cr-folder]{pan-to="50%,0%"  scale-by="1.6"}
+
+New birds can join without confusion, everyone knows what to do, and the teamwork finally clicks around her.  [@cr-folder]{pan-to="50%,0%"  scale-by="1.6"}
+
+Slowly, the nest base finally comes together.  [@cr-folder]{pan-to="50%,0%"  scale-by="1.6"}
+
+:::{#cr-folder}
+![](img/folder.jpg){width=40%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+A curious raven asks, “How exactly are you layering the moss?”  [@cr-raven]{pan-to="68%,57%"  scale-by="3.8"}
+
+The Open Science bird shares her full environment setup... temperature, humidity, moss thickness, twig density.  [@cr-raven]{pan-to="68%,42%"  scale-by="2.3"}
+
+Now the raven can recreate the same comfy structure.  [@cr-raven]{pan-to="44%,-15%"  scale-by="1.3"}
+
+:::{#cr-raven}
+![](img/raven.jpg){width=40%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+She writes tiny tests to ensure everything works as planned...  [@cr-tests]{pan-to="53%,52%"  scale-by="2.3"}
+
+“Does this twig hold weight?”  [@cr-tests]{pan-to="53%,52%"  scale-by="2.3"}
+
+“Does this moss absorb moisture?”  [@cr-tests]{pan-to="53%,52%"  scale-by="2.3"}
+
+“Do these feathers resist wind?”  [@cr-tests]{pan-to="53%,52%"  scale-by="2.3"}
+
+Everything passes, except the wind feathers. She adjusts them and the tests turn green.  [@cr-tests]{pan-to="22%,0%"  scale-by="1"}
+
+:::{#cr-tests}
+![](img/tests.jpg){width=57%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+Halfway through building, she starts feeling overwhelmed by decisions...  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+... twig angle, moss layering, feather placement  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+... so many choices.  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+So she tries a new tool...  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+... a Large Limb Model—a tiny, Christmassy tree trained on thousands of historical nests.  [@cr-llm]{pan-to="83%,-3%"  scale-by="1.8"}
+
+It can suggest designs, compare structures and even draft a “best-practice twig plan.”  [@cr-llm]{pan-to="83%,-3%"  scale-by="1.8"}
+
+But she knows not to trust it blindly.  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+Some ideas don’t fit her forest; others sound confident but are not substantial.  [@cr-llm]{pan-to="-18%,-6%"  scale-by="1.8"}
+
+So she uses it responsibly--cross-checking suggestions, keeping things ethical and transparent and making sure the final choices stay hers.  [@cr-llm]{pan-to="13%,0%"  scale-by="1.3"}
+
+With thoughtful use, the LLM speeds up her building without replacing her expertise or her values.  [@cr-llm]{pan-to="13%,0%"  scale-by="1.3"}
+
+:::{#cr-llm}
+![](img/llm.jpg){width=83%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+A curious owl wants to learn how she builds such sturdy nests but...  [@cr-owl]{pan-to="155%,-82%"  scale-by="3.5"}
+
+... instead of giving a long lecture, she hands him a “Nest Basics” guide to read before they meet.  [@cr-owl]{pan-to="55%,-78%"  scale-by="3.5"}
+
+When they gather later, they skip the boring explanations and jump straight into practicing twig placing techniques together.  [@cr-owl]{pan-to="75%,-38%"  scale-by="2.5"}
+
+Soon, more birds join in, all arriving prepared and ready to build.  [@cr-owl]{pan-to="25%,0%"  scale-by="1"}
+
+The forest’s first flipped-classroom nest workshop is officially a hit.  [@cr-owl]{pan-to="25%,0%"  scale-by="1"}
+
+:::{#cr-owl}
+![](img/owl.jpg){width=52%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+Before finishing her nest, she posts a preprint: “Preliminary Findings on Structurally Sound Nests.”  [@cr-preprint]{pan-to="12%,-35%"  scale-by="1"}
+
+Other birds leave comments floating on the stream like little notes on leaves drifting past with friendly suggestions. [@cr-preprint]{pan-to="12%,67%"  scale-by="1.7"}
+
+She updates her approach accordingly.  [@cr-preprint]{pan-to="12%,0%"  scale-by="1"}
+
+:::{#cr-preprint}
+![](img/preprint.jpg){width=75%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+Her preprint becomes a fully published nest manual... freely available to every creature in the forest and beyond.  [@cr-free_available]{pan-to="53%,40%"  scale-by="2"}
+
+No paywalls here; all wings welcome.  [@cr-free_available]{pan-to="15%,0%"  scale-by="1"}
+
+:::{#cr-free_available}
+![](img/free_available.jpg){width=85%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+A snarky crow swoops down, inspecting the nest with a judgmental tilt of his head.  [@cr-crow]{pan-to="50%,-10%"  scale-by="1.1"}
+
+“Hmm,” he croaks, “but how prestigious is it? Did you build it in a high-impact tree?”  [@cr-crow]{pan-to="50%,-10%"  scale-by="1.1"}
+
+The Open Science Bird sighs. “Crow, not everything needs to be evaluated by how big the tree is. Good nests are judged by how well they work, not by the tree they’re built in.”  [@cr-crow]{pan-to="12%,-5%"  scale-by="1.1"}
+
+The crow blinks, confused then flaps off to find a bigger tree.  [@cr-crow]{pan-to="12%,-5%"  scale-by="1.1"}
+
+:::{#cr-crow}
+![](img/crow.jpg){width=85%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+A friendly hedgehog suggests she promote her findings to help others build good nests.  [@cr-hedgehog]{pan-to="-20%,0%"  scale-by="1.6"}
+
+She nods. 
+“Right. Time to make a communication and advocacy plan!”  [@cr-hedgehog]{pan-to="70%,0%"  scale-by="1.6"}
+
+And so begins the Better Nest Initiative.  [@cr-hedgehog]{pan-to="8%,0%"  scale-by="1"}
+
+:::{#cr-hedgehog}
+![](img/hedgehog.jpg){width=85%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+She reflects on her message.  [@cr-sunlight]{pan-to="83%,-16%"  scale-by="2.8"}
+
+What does she want to share about nest building?  [@cr-sunlight]{pan-to="83%,-16%"  scale-by="2.8"}
+
+Why does it matter?  [@cr-sunlight]{pan-to="83%,-16%"  scale-by="2.8"}
+
+Who will benefit?  [@cr-sunlight]{pan-to="83%,-16%"  scale-by="2.8"}
+
+... other nest-building animals, of course.  [@cr-sunlight]{pan-to="83%,-16%"  scale-by="2.8"}
+
+Clarity dawns like morning sunlight through the branches.  [@cr-sunlight]{pan-to="31%,0%"  scale-by="1"}
+
+:::{#cr-sunlight}
+![](img/sunlight.jpg){width=38%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-left"}
+Now she thinks about how she wants to sound and look...  [@cr-brand]{pan-to="60%,69%"  scale-by="2.5"}
+
+What tone? What visuals?  [@cr-brand]{pan-to="60%,69%"  scale-by="2.5"}
+
+A logo? A signature feather motif?  [@cr-brand]{pan-to="60%,69%"  scale-by="2.5"}
+
+Branding helps everyone recognize her communications instantly.  [@cr-brand]{pan-to="30%,-6%"  scale-by="1"}
+
+:::{#cr-brand}
+![](img/brand.jpg){width=50%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+She brainstorms where to spread the word...  [@cr-brainstorm]{pan-to="40%,12%"  scale-by="1.5"}
+
+...forest conferences, birdsong networks, and of course the wide world of woodland internet.  [@cr-brainstorm]{pan-to="40%,12%"  scale-by="1.5"}
+
+Different channels for different audiences.  [@cr-brainstorm]{pan-to="30%,-8%"  scale-by="1.1"}
+
+:::{#cr-brainstorm}
+![](img/brainstorm.jpg){width=50%}
+:::
+:::
