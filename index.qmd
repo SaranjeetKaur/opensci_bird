@@ -304,3 +304,32 @@ Different channels for different audiences.  [@cr-brainstorm]{pan-to="30%,-8%"  
 ![](img/brainstorm.jpg){width=50%}
 :::
 :::
+
+:::{.cr-section layout="sidebar-left"}
+The Open Science Bird has personally used social media before 
+but never for the Better Nest Initiative.  [@cr-social_media]{pan-to="215%,-87%"  scale-by="4.8"}
+
+A savvy squirrel gives her a crash course.  [@cr-social_media]{pan-to="65%,-40%"  scale-by="2.2"}
+
+She leaves feeling unstoppable.  [@cr-social_media]{pan-to="30%,0%"  scale-by="1"}
+
+:::{#cr-social_media}
+![](img/social_media.jpg){width=40%}
+:::
+:::
+
+:::{.cr-section layout="sidebar-right"}
+She launches her communication channels...  [@cr-network]{pan-to="82%,-99%"  scale-by="3"}
+
+... and begins connecting with others.  [@cr-network]{pan-to="48%,-35%"  scale-by="1.7"}
+
+Some birds message her to collaborate;  [@cr-network]{pan-to="40%,-18%"  scale-by="1.3"}
+
+She reaches out to old friends too.  [@cr-network]{pan-to="33%,-8%"  scale-by="1.1"}
+
+The network grows — and so does the potential.  [@cr-network]{pan-to="33%,-1%"  scale-by="1.1"}
+
+:::{#cr-network}
+![](img/network.jpg){width=47%}
+:::
+:::
