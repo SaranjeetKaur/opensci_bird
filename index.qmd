@@ -333,3 +333,17 @@ The network grows — and so does the potential.  [@cr-network]{pan-to="33%,-1%"
 ![](img/network.jpg){width=47%}
 :::
 :::
+
+:::{.cr-section layout="sidebar-left"}
+A podcasting penguin from Antarctica slides into her messages.  [@cr-penguin]{pan-to="90%,60%"  scale-by="2.5"}
+
+“Want to chat about nest building on my show for arctic creatures?”  [@cr-penguin]{pan-to="90%,60%"  scale-by="2.5"}
+
+She agrees instantly ...  [@cr-penguin]{pan-to="65%,-70%"  scale-by="2.5"}
+
+... the cross-continental collab she never knew she needed.  [@cr-penguin]{pan-to="33%,0%"  scale-by="1.1"}
+
+:::{#cr-penguin}
+![](img/penguin.jpg){width=40%}
+:::
+:::
