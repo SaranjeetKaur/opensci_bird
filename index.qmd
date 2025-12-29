@@ -347,3 +347,17 @@ She agrees instantly ...  [@cr-penguin]{pan-to="65%,-70%"  scale-by="2.5"}
 ![](img/penguin.jpg){width=40%}
 :::
 :::
+
+:::{.cr-section layout="sidebar-right"}
+The Better Nest community expands globally.  [@cr-global]{pan-to="23%,-5%"  scale-by="1.4"}
+
+She and her partners think hard about sustainability  [@cr-global]{pan-to="23%,-5%"  scale-by="1.4"}
+
+How can the community support new nest builders for years to come?  [@cr-global]{pan-to="23%,-5%"  scale-by="1.4"}
+
+They sketch plans for maintenance, governance, and long-term care.  [@cr-global]{pan-to="23%,-5%"  scale-by="1.4"}
+
+:::{#cr-global}
+![](img/global.jpg){width=70%}
+:::
+:::
