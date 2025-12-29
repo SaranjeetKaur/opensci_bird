@@ -361,3 +361,15 @@ They sketch plans for maintenance, governance, and long-term care.  [@cr-global]
 ![](img/global.jpg){width=70%}
 :::
 :::
+
+:::{.cr-section layout="sidebar-left"}
+On the final day, the Open Science Bird fluffs her feathers and surveys the forest.  [@cr-final]{pan-to="27%,-2%"  scale-by="1"}
+
+Her nest is strong, her community vibrant, and countless animals have built better homes thanks to shared knowledge.  [@cr-final]{pan-to="27%,-2%"  scale-by="1"}
+
+A warmer, kinder forest — all because she chose to build openly.  [@cr-final]{pan-to="27%,-2%"  scale-by="1"}
+
+:::{#cr-final}
+![](img/final.jpg){width=42%}
+:::
+:::
